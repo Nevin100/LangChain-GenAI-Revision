@@ -1,0 +1,28 @@
+# Langchain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Groq Integration
+langchain-groq
+# Anhropic Integration
+langchain-anthropic
+
+# Google Gemini Integration
+langchain-google-genai
+google-genai
+google-generativeai
+
+# Hugging face Integration
+langchain-huggingface
+transformers
+
+# Environment Variables
+python-dotenv
+
+# ML Utitlities
+numpy
+scikit-learn
