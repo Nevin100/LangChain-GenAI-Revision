@@ -6,7 +6,7 @@ load_dotenv()
 
 # Initialize the Hugging Face pipeline
 llm = HuggingFacePipeline.from_model_id(
-    repo_id="HuggingFaceH4/zephyr-7b-beta", # Replace with the appropriate model repository
+    repo_id="distilgpt2", # Replace with the appropriate model repository
     task="text-generation", # Replace with the appropriate task
     pipeline_kwargs= 
     # Optional: Additional arguments for the pipeline, such as temperature, max_new_tokens, etc.
